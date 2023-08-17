@@ -1,4 +1,8 @@
-### Hi there 👋, I'm Ben Burstein
+![ezgif com-resize (1)](https://github.com/bennybebo/bennybebo/assets/98127047/55926563-ef97-4663-9b7a-cffe4ac1ef5a)
+
+
+## Hi there 👋, I'm Ben Burstein
+I am a senior at The Ohio State University majoring in Computer Information Science  with a minor in Information Security. I enjoy back-end development and love to learn. Outside of computers I really enjoy volleyball and anime
 
 #### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
